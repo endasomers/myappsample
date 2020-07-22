@@ -1,2 +1,2 @@
 #My app
- **bold** Sample
+ **bold** Sample app blurb
